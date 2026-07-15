@@ -1,4 +1,7 @@
-<img src="nodes/TiktokEvents/conversions.svg" width="56" alt="">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="nodes/TiktokEvents/conversions.dark.svg">
+  <img src="nodes/TiktokEvents/conversions.svg" width="56" alt="TikTok Events API">
+</picture>
 
 # TikTok Events API node for n8n
 
