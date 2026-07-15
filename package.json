@@ -17,8 +17,9 @@
     "advertising"
   ],
   "author": {
-    "name": "Rup Sarmah",
-    "email": "hello@nocode.expert"
+    "name": "nocode.expert",
+    "email": "hello@nocode.expert",
+    "url": "https://nocode.expert"
   },
   "repository": {
     "type": "git",
