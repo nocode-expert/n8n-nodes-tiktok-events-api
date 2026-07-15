@@ -1,0 +1,24 @@
+{
+	"node": "n8n-nodes-tiktok-events-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Marketing",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://nocode.expert/docs/n8n/tiktok-events-api#credential"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://nocode.expert/docs/n8n/tiktok-events-api"
+			},
+			{
+				"url": "https://github.com/nocode-expert/n8n-nodes-tiktok-events-api?tab=readme-ov-file"
+			}
+		]
+	}
+}
